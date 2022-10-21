@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TRexZXZTnj2lbxNtQ48QXBIdWJF7a3kzNEzCDFhS7MY=",
+  "Source": "PocDotNet",
+  "BasePath": "_content/PocDotNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
